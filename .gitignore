@@ -1,0 +1,10 @@
+# Secretos
+.env
+
+# Base de datos con conversaciones de usuarios
+*.db
+
+# Entorno virtual y archivos de Python
+.venv/
+__pycache__/
+*.pyc
