@@ -1,7 +1,7 @@
 # Gastón · Bot de finanzas personales
 
 Proyecto del Grupo 6 para Sistemas Inteligentes Aplicados (ITU UNCuyo).
-Integrantes: Fernando Navarro, Lucas Olarte, Agustina Zartmann y Carla Méndez.
+Integrantes: Fernando Navarro, Leandro Olarte, Agustina Zartmann y Carla Méndez.
 
 Gastón es un bot de Telegram que ayuda a jóvenes y estudiantes a ordenar sus gastos y pensar cómo ahorrar. Responde con Gemini y recuerda la conversación de cada usuario.
 
